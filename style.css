@@ -1,0 +1,10 @@
+body{
+    background : linear-gradient(rgb(134, 132, 255),rgb(255, 255, 255),rgb(255, 255, 255),rgb(255, 255, 255),rgb(134, 132, 255));
+    color:rgb(0, 110, 255);
+    font-family: 'Pacifico', cursive;
+    font-size: 250%;
+}
+button{
+    background : linear-gradient(rgb(134, 132, 255),rgb(255, 255, 255),rgb(255, 255, 255),rgb(255, 255, 255),rgb(134, 132, 255));
+}
+
